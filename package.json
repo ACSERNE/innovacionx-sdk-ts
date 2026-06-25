@@ -1,0 +1,14 @@
+{
+  "name": "innovacionx",
+  "version": "1.0.0",
+  "description": "SDK oficial de InnovacionX",
+  "main": "index.ts",
+  "types": "index.ts",
+  "author": "InnovacionX",
+  "license": "MIT",
+  "keywords": ["innovacionx", "sdk", "api"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/innovacionx/sdk-ts.git"
+  }
+}
