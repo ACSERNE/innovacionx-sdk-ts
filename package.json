@@ -9,7 +9,7 @@
   "keywords": ["innovacionx", "sdk", "api"],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/innovacionx/sdk-ts.git"
+    "url": "git+https://github.com/ACSERNE/innovacionx-sdk-ts.git"
   }
 }
 
